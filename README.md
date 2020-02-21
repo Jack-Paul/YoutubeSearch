@@ -1,8 +1,8 @@
-[![Nuget](https://img.shields.io/nuget/v/Mayerch1.YoutubeSearch)](https://www.nuget.org/packages/Mayerch1.GithubUpdateCheck/)
+[![Nuget](https://img.shields.io/nuget/v/Mayerch1.YoutubeSearch)](https://www.nuget.org/packages/Mayerch1.YoutubeSearch/)
 
-This is a direct fork of [mrklintscher/YoutubeSearch](https://github.com/mrklintscher/YoutubeSearch)
+This fork is no longer maintained, as the master at [mrklintscher/YoutubeSearch](https://github.com/mrklintscher/YoutubeSearch) was merged and received an update for the Nuget package.
 
-This fork is featuring .NET Core (without modification) and offers a NuGet package for the newest version (including Async support). If the original repo and NuGet is updated, this fork will not be continued.
+---
 
 # YoutubeSearch
 YoutubeSearch is a library for .NET, written in C#, to show search query results from YouTube.
