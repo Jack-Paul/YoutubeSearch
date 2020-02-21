@@ -1,7 +1,5 @@
 [![Nuget](https://img.shields.io/nuget/v/Mayerch1.YoutubeSearch)](https://www.nuget.org/packages/Mayerch1.YoutubeSearch/)
 
-This fork is no longer maintained, as the master at [mrklintscher/YoutubeSearch](https://github.com/mrklintscher/YoutubeSearch) was merged and received an update for the Nuget package.
-
 ---
 
 # YoutubeSearch
